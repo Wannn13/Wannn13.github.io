@@ -1,6 +1,6 @@
 {
   "name": "App Kalkulator sederhana",
-  "short_name": "kalkulator",
+  "short_name": "Kalkulator",
   "description": "Membuat Aplikasi Kalkulator sederhana dengan javascript PWA ",
   "icons": [{
       "src": "assets/images/calculator.png",
